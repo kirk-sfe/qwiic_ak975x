@@ -24,8 +24,8 @@
 
 #include <stdio.h>
 #include <string.h>
-#include "sparkfun/qwiic_i2c.h"
-#include "sparkfun/qwiic_ak975x.h"
+#include "qwiic_i2c.h"
+#include "qwiic_ak975x.h"
 
 Qwiic_I2C qwiic;
 
